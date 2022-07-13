@@ -7,8 +7,8 @@ O desafio aqui foi construir um projeto simples para treinar conceitos JavaScrip
 
 <p align="left"> 
   
- 🚀  Quer ver como o meu projeto ficou? Clique:
-  
+ 🚀  Quer ver como o meu projeto ficou? Clique:</br>
+  https://react-lista-de-presenca.vercel.app/
   
 🚀  Projeto construído a partir das aulas da RocketSeat
 
