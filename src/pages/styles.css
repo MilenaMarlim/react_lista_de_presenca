@@ -16,7 +16,7 @@ body {
     display: flex;
    justify-content: space-between;
    align-items:center;
-  width: 420px;  
+   width: 420px;  
 }
 
 .quadro-geral header img{
@@ -51,6 +51,7 @@ h1 {
 strong{
     font-size:18px;
 }
+
 input {
     padding: 24px;
     border-radius: 5px;
@@ -84,4 +85,10 @@ input {
 
 .container button:hover {
     color: gray;
+}
+
+@media(max-width:425px){
+    .quadro-geral header, input{
+       width: 350px;  
+    }
 }
